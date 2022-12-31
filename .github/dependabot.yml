@@ -3,5 +3,9 @@ updates:
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
-      interval: "weekly"
-      day: "monday"
+      interval: "daily"
+  - package-ecosystem: "gomod"
+    directory: "/"
+    labels: ["dependencies"]
+    schedule:
+      interval: "daily"
