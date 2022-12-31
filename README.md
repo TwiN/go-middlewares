@@ -1,2 +1,2 @@
-# template
-This is a template repository
+# go-middlewares
+Collection of middlewares in Go
