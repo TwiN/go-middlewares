@@ -1,4 +1,6 @@
 # go-middlewares
+[![Go Reference](https://pkg.go.dev/badge/github.com/TwiN/go-middlewares.svg)](https://pkg.go.dev/github.com/TwiN/go-middlewares)
+
 Collection of middlewares in Go
 
 Each middleware is in a separate package, and each has its own implementation.
